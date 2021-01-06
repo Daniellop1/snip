@@ -27,3 +27,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Status
+
+![Snip status](http://status.2005danielus.ml/status/snip.2005danielus.ml-443.svg?t=1609936826943)
